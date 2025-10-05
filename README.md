@@ -175,4 +175,3 @@ It merges AI, data science, and interactive simulation to provide a complete eco
 By transforming NASA’s vast bioscience archive into an intelligent and intuitive interface, it empowers research and planning for sustainable human exploration beyond Earth.
 
 ```
-```
