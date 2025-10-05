@@ -2,7 +2,6 @@ Here’s a **clean, professional, and emoji-free** version of your **GitHub READ
 
 ---
 
-```markdown
 # ARGO MAP XR — The Intelligent Dashboard for Human Space Exploration  
 
 ## Overview  
